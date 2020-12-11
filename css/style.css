@@ -1,0 +1,194 @@
+.bbb{
+    background: url(https://hm.freeitsky.com/templates/aceorbit/html/images/slide1.jpg) no-repeat center top;
+    background-attachment: fixed;
+    background-size: cover;
+     min-height: 550px;
+}
+
+.pad{
+    padding-top: 50px;
+}
+.col-lg-5 img{
+    width: 570px;
+    margin-top: 40px;
+}
+.navbar{
+    opacity: 0.7;
+    background: rgb(60, 70, 51);
+    
+}
+.pad h1{
+    font-size: 280%;
+    color: #8FC23D;
+}
+.pad{
+    font-family: 'Ubuntu', sans-serif;
+}
+.pad p{
+    font-size: 25px;
+    color: #f4f8ee;
+}
+nav{
+    position: fixed;
+}
+.explorertext{
+    color: #802A8D;
+    font-family: 'Lobster', cursive;
+    font-weight: 900;
+    font-size: 94%px;
+}
+.loremm{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 22px;
+    font-family: 'Langar', cursive;
+    color: #802A8D;
+}
+.bs{
+    /* padding:26px 150px 26px 150px; */
+    font-size: 200%;
+    background: #A6CF65;
+    border: none;
+    border-radius: 5px;
+    color: cornsilk;
+    font-family: 'Nerko One', cursive;
+    margin-bottom: 30px;
+}
+.bs:hover{
+    /* padding:26px 150px 26px 150px; */
+    font-size: 200%;
+    background: #ffffff;
+    border: none;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-family: 'Nerko One', cursive;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.h{
+    border-top: 2px solid yellowgreen;
+}
+.lr{
+    margin-bottom: 30px;
+    margin-top: 25px;
+    color: #802A8E;
+    font-family: 'Nerko One', cursive;
+}
+.ml{
+    /* margin-left: 110px; */
+    margin-top: 60px;
+    color: #802A8E;
+    font-size: 25px;
+    font-family: 'East Sea Dokdo', cursive;   
+}
+.borderw{
+    border-bottom: 2px solid yellowgreen;
+    margin-top: 30px;
+}
+.footer{
+    margin-top: 20px;
+}
+/* .btnh{
+    margin-left: 271px;
+} */
+.www{
+    max-width:100%;
+}
+.g{
+    max-width: 100%;
+}
+.whatp{
+    color: #802A8E;
+    font-family: 'Ranchers', cursive;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.peo{
+    color: #802A8E;
+    font-family: 'Ranchers', cursive;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+.bgrow{
+    background: url(../img/images.jfif) no-repeat center top;
+    background-size: cover;
+     min-height: 550px;
+     margin-bottom:30px ;
+}
+.scince{
+    color: #8FC23D;
+    font-family: 'Ranchers', cursive;
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 380%;
+}
+.uul ul li{
+    color: #8FC23D;
+    font-family: 'Ranchers', cursive;
+    font-weight: bold;
+}
+.sizekori{
+    margin-top: 70px;
+    max-width: 300px;
+}
+.hhhh{
+    border-bottom:2px solid greenyellow ;
+    border-top:2px solid greenyellow ;
+    margin-bottom: 40px;
+}
+.follow h1{
+    color: #802A8D;
+    font-weight: bold;
+    font-family: 'Ranchers', cursive;
+    font-size: 200%;
+    
+}
+.follow p{
+    color: #802A8D;
+    font-weight: bold;
+    font-family: 'Ranchers', cursive;
+    margin-bottom: 25px;
+}
+.g{
+    background: greenyellow;
+    outline: none;
+    border-radius: 5px;
+}
+.g:hover{
+    background: #8CA44D;
+    border-radius: 5px;
+}
+.lll{
+    border-radius: 5px;
+}
+.eee{
+    margin-bottom: 75px;
+}
+.v{
+    margin-bottom: 60px;
+}
+.mylogo{
+    margin-bottom: 60px;
+}
+.reach h2{
+    margin-bottom: 30px;
+}
+.reach h4{
+    margin-bottom: 30px;
+}
+.reach{
+    margin-bottom: 40px;
+}
+.reach i{
+    margin-bottom: 40px;
+    font-size: 55px;
+    color: white;
+    border-radius: 30px;
+    box-shadow: 2px 2px 2px black;
+}
+.reach i:hover{
+    margin-bottom: 40px;
+    font-size: 55px;
+    color: greenyellow;
+    text-decoration: none;
+}
